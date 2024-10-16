@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there it's Amine 👋
+<b>Android Developer | Tech Enthusiast | Problem Solver</b>
 
-<!--
-**aminekarimii/aminekarimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Passionate about crafting sleek, efficient, and user-friendly mobile experiences.  
+🎯 Currently building innovative Android solutions at Xelops in Casablanca, Morocco.  
+💡 Always exploring new tools, frameworks, and technologies to improve my skills.  
+### Latest Blog Post 📕
+[2023 - progress and achievements as an Android Developer](https://medium.com/@aminekarimii/2023-progress-and-achievements-as-an-android-developer-f6a5b5b8bb97)  
 
-Here are some ideas to get you started:
+### 📫 Connect With Me!  
+[💼 LinkedIn](https://www.linkedin.com/in/aminekarimi/)  
+[🌐 Medium](https://medium.com/@aminekarimii)  
+[🐦 Twitter / X](https://x.com/aminekarimii)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminekarimii&show_icons=true&theme=transparent)
